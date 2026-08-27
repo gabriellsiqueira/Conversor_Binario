@@ -7,3 +7,6 @@
    (Put the number you want convert to binary and ready! Remember, this conversor only convert numbers up to
    256 (8bits), if you want to repeat the process and convert other number, type 10 for yes, if you want to finish
    the process, put any number diferent then 10.)
+
+
+(First project I made in my academical life in language C, at this moment, I don't knew repetition commands
